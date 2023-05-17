@@ -23,7 +23,7 @@
 - **main_simu.R: Perform PPIs network activity analysis on a toy dataset**
 - **code**: subfunction used in the ActivePPI process*
 - **BRCA_TCGA**: Related documents of BRCA
-- **SARS-CoV-2**: Related documents of BRCA
+- **SARS-CoV-2**: Related documents of SAVR-CoV-2
 - **simu**: Related documents of simulation examples
 
 ## Run the code
