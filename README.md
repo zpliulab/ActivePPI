@@ -4,7 +4,7 @@
 
 **Please cite our paper if it helps you (under reviewing).**
 
-![workfolw](https://github.com/zpliulab/ActivePPI/tree/main/figure/Fig1.png "ActivePPI")
+![workfolw](https://github.com/zpliulab/ActivePPI/blob/main/figure/Fig1.png "ActivePPI")
 
 ## Environment requirements
 - Download anaconda/miniconda if needed
