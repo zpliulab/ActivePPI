@@ -4,7 +4,7 @@
 
 **Please cite our paper if it helps you (under reviewing).**
 
-![workfolw](https://github.com/zpliulab/ActivePPI/blob/master/workflow.jpg)
+![workfolw](https://github.com/zpliulab/ActivePPI/figure/Fig1.png)
 
 ## Environment requirements
 - Download anaconda/miniconda if needed
