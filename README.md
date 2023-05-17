@@ -34,7 +34,9 @@ Run the following code in the R environment
 - main_simu.R
 
 ## Use ActivePPI on a new dataset
+
 - Function 1 (estimating pathway activity):
+
 ```result <- activePPI_pathway(Protein.Pathway, protein, Energe.single, corr = prob.pro, parallel = FALSE, verbose = FALSE, rtxt = FALSE, rtxtfile='SARS_result.csv')```
 
 	Input:
@@ -57,6 +59,7 @@ Run the following code in the R environment
 	        optimal network architecture (result$gra)	
 		
 - Function 2 (estimating network activity):
+
 ```result <- activePPI_network(gra, protein, Energe. single, prob. pro)```
 
 	Input:
