@@ -9,7 +9,7 @@ require(doSNOW)
 setwd('/home/wcy/scMRF/R_github/R/GitHub-main') # your path
 
 # load data
-load("./SARS-CoV-2/pathway-related/FINAL_pathway_crop.RData")
+FINAL_pathway_crop <- readRDS("./SARS-CoV-2/pathway-related/FINAL_pathway_crop.rds")
 load("./SARS-CoV-2/MS-related/SARS.data.Rdata") 
 source("./code/activePPI.R")
 
