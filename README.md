@@ -3,8 +3,9 @@
 **We have developed a novel framework, ActivePPI, which effectively measures the activity of PPIs network, the activity of pathways, and the optimal PPIs network architecture from mass spectrometry abundance data under different cellular conditions.**
 
 **Please cite our paper if it helps you .**
+
 Cite: Chuanyuan Wang, Shiyu Xu, Duanchen Sun, Zhi-Ping Liu, ActivePPI: quantifying protein–protein interaction network activity with Markov random fields, Bioinformatics, Volume 39, Issue 9, September 2023, btad567, https://doi.org/10.1093/bioinformatics/btad567
-doi: https://doi.org/10.1093/bioinformatics/btad567
+
 ![workfolw](https://github.com/zpliulab/ActivePPI/blob/main/figure/Fig1.png "ActivePPI")
 
 ## Environment requirements
