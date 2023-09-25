@@ -4,7 +4,7 @@
 
 **Please cite our paper if it helps you .**
 
- Chuanyuan Wang, Shiyu Xu, Duanchen Sun, Zhi-Ping Liu, ActivePPI: quantifying protein–protein interaction network activity with Markov random fields, Bioinformatics, Volume 39, Issue 9, September 2023, btad567, https://doi.org/10.1093/bioinformatics/btad567
+ 'Chuanyuan Wang, Shiyu Xu, Duanchen Sun, Zhi-Ping Liu, ActivePPI: quantifying protein–protein interaction network activity with Markov random fields, Bioinformatics, Volume 39, Issue 9, September 2023, btad567, https://doi.org/10.1093/bioinformatics/btad567.'
 
 ![workfolw](https://github.com/zpliulab/ActivePPI/blob/main/figure/Fig1.png "ActivePPI")
 
